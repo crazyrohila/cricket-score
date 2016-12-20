@@ -1,10 +1,10 @@
 {
-  "name": "cricket-scores",
-  "version": "0.0.1",
+  "name": "cricket-score",
+  "version": "0.0.2",
   "description": "Node Cli function to get Cricket scores from cricapi",
   "preferGlobal": true,
   "bin": {
-    "cric": "./index.js"
+    "cricket": "./index.js"
   },
   "author": "Sanjay Rohila, Arpit Rastogi",
   "license": "ISC",
